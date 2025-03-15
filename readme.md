@@ -5,6 +5,7 @@ The **BME688 Arduino Library** is a comprehensive driver for interfacing with th
 - **Author**: Saurav Sajeev
 - **Latest version**: 1.0.0
 - **License**: MIT
+- **Sensor vendor**: Bosch Sensortec
 
 ## Features
 
