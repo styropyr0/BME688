@@ -124,7 +124,7 @@ private:
             hum_oss = BME_688_OSS_1,
             mode = BME_688_FORCED_MODE;
 
-    bool printLogs = true;
+    bool printLogs = false;
 
     // CALIBRATION CONSTANTS
     int16_t par_t16[2] = {0};
