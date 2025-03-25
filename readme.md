@@ -3,7 +3,7 @@
 The **BME688 Arduino Library** is a comprehensive driver for interfacing with the Bosch BME688 environmental sensor. This library provides functionality to measure temperature, pressure, humidity, and gas resistance, supporting various oversampling settings and operation modes. It is designed to be easy to use while offering advanced features for precise environmental monitoring and gas sensing applications.
 
 - **Author**: Saurav Sajeev
-- **Latest version**: 1.0.0
+- **Latest version**: 1.0.1
 - **License**: MIT
 - **Sensor vendor**: Bosch Sensortec
 
